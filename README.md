@@ -1,27 +1,21 @@
-## Olá! Eu sou o Victor
- <div>
-  <a href="https://github.com/vitucs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitucs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitucs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitu-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Vitu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitu-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+### Hello World 🐱‍💻 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-coutinho-224a75147/)](https://www.linkedin.com/in/victor-coutinho-224a75147/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/vitucs/)](https://github.com/vitucs/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/vitucss)](https://www.instagram.com/vitucss) 
+
+<p align="left"> 
+Hi, my name is Victor Coutinho Santos! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. I currently work as a FullStack Developer in InEvent. <br> <br>
+
+💻 Software Engineer at [InEvent](https://inevent.com/)<br>
+📚 Studying Laravel, Clean Code, AWS and Vue.js<br>
+👨‍💻 Bachelor's Degree in Exact and Technological Sciences at [UFRB](https://www.ufrb.edu.br/)<br>
+</p>
+
+### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker)  <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
  
-  <img align="right" alt="Rafa-yoda" src="https://i1.wp.com/cdn130.picsart.com/311304635056201.gif">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/vitucss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/utiv_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorcdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-coutinho-224a75147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vitucs/vitucs/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitucs&hide=html,TSQL,CSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitucs&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
