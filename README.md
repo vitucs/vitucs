@@ -1,5 +1,5 @@
 ### Hello World 🐱‍💻 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-coutinho-224a75147/)](https://www.linkedin.com/in/victor-coutinho-224a75147/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/vitucs/)](https://github.com/vitucs/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/vitucss)](https://www.instagram.com/vitucss) 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitucs/)](https://www.linkedin.com/in/vitucs/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/vitucs/)](https://github.com/vitucs/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/vitucss)](https://www.instagram.com/vitucss) 
 
 <p align="left"> 
 Hi, my name is Victor Coutinho Santos! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. I currently work as a FullStack Developer in InEvent. <br> <br>
