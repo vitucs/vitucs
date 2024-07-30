@@ -4,7 +4,6 @@
 <p align="left"> 
 Hi, my name is Victor Coutinho Santos! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. I currently work as a FullStack Developer in InEvent. <br> <br>
 
-💻 Software Engineer at [InEvent](https://inevent.com/)<br>
 📚 Studying Laravel, Clean Code, AWS and Vue.js<br>
 👨‍💻 Bachelor's Degree in Exact and Technological Sciences at [UFRB](https://www.ufrb.edu.br/)<br>
 </p>
