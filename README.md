@@ -13,7 +13,7 @@ Hi, my name is Victor Coutinho Santos! I like to share knowledge and solve probl
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitucs&hide=html,TSQL,CSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitucs&hide=html,TSQL,CSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />
     </tr>   
   </table>
 </center>
