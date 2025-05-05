@@ -1,4 +1,4 @@
-### Hello World 🐱‍💻 
+### Hello World  
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitucs/)](https://www.linkedin.com/in/vitucs/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/vitucs/)](https://github.com/vitucs/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/vitucss)](https://www.instagram.com/vitucss) 
 
 <p align="left"> 
