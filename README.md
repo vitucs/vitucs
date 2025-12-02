@@ -1,5 +1,5 @@
 ### Hello World  
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitucs/)]
+# ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitucs/)
 
 <p align="left"> 
 Hi, my name is Victor Coutinho Santos! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. <br> <br>
